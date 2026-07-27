@@ -1,2 +1,6 @@
 # COMP3180-Narrative-Design
-Design
+Current References:
+DougDoug
+DND Campaigns
+Stanley Parable
+Detroit: Become Human
