@@ -1,0 +1,61 @@
+1. Player Character – Daurko
+Field	Value
+Name	Daurko
+Pronouns	he/him
+Age	20
+Height	6 ft
+Appearance	Silver hair, red eyes, lean build, mist‑etched scar across left cheek
+Origin	Fallen village in the Shadow Isles (survivor of the Black Mist)
+Archetype	Mist‑Wraith (shadow‑assassin using spirit‑bound blade)
+Strengths	Sneaking through mist, striking from shadows, evading detection
+Weaknesses	Difficulty in open, well‑lit areas
+Skills	Tracking, survival in mist, lock‑picking
+Combat Approach	Stealthy infiltration + hit‑and‑run + ambush
+Magic/Technology	Spirit‑bound blade that channels mist; can summon the blade at will
+Personality	Values secrecy & self‑reliance; fears bright light & betrayal; ambits cleansing the Black Mist; flawed by impulsiveness & haunted memories
+Personal History	Village destroyed by Black Mist; found spirit‑bound blade; bound to mist
+Motivation	Locate and purify or harness the Black Mist; protect survivors
+Connections	Ally: Elysia (healer, teaches mist‑hiding). Rival: Karn (hunter seeking the blade). Unresolved: Mara (sister presumed dead).
+Starting Equipment	• Spirit‑bound blade (summons at will) <br>• Lock‑pick set <br>• Vial of mist‑poison <br>• Cloak of Shadow <br>• Traveler’s gear (satchel, tinderbox, rations, map) <br>• 12 silver pieces, 3 gold pieces, broken coins
+Health	12 HP (Base)
+Armor	0 (light cloak, no armor)
+Proficiency Bonus	+2
+Ability Scores (approx.)	Strength 10 (+0) <br>Dexterity 16 (+3) <br>Constitution 12 (+1) <br>Intelligence 12 (+1) <br>Wisdom 14 (+2) <br>Charisma 10 (+0)
+2. Current Scene – Ruined Village (Hollow of Threnody)
+Feature	Description
+Location	Broken village in the Shadow Isles; low, thick fog; bruised gray sky.
+Key Points	• Village Hall – collapsed, broken lantern, scattered pottery. <br>• Well – stone well with dark water, etched runes. <br>• Old Woman – survivor muttering, sits on broken cart. <br>• Footprints – fresh muddy tracks leading to old church.
+Atmosphere	Ominous mist, faint metallic scent, echoing whispers.
+NPC	Eldest Survivor (Old Woman) – unknown name, speaks in an unrecognizable dialect.
+Immediate Options for Daurko	1. Investigate Village Hall (DC 15) <br>2. Examine Well (DC 12) <br>3. Speak to Old Woman (DC 10) <br>4. Follow Footprints to Church (DC 12) <br>5. Use Blade’s Mist‑Summoning (DC 15) <br>6. Rest and Regroup (no roll).
+3. World Rules (Simplified)
+Dice System: d20 + Ability Modifier + Proficiency (if proficient).
+Difficulty Classes: 5 (Very Easy) – 30 (Extraordinary).
+Advantage/Disadvantage: Roll twice; take higher/lower.
+Magic/Technology: Use DCs for spell-like or tech-based actions (e.g., summoning mist).
+Factions & Reputation: Track via notes (not yet detailed).
+Narrative: Player drives decisions; world reacts.
+4. Important Events (Chronological)
+Date	Event	Notes
+Day 0	Daurko’s village destroyed by Black Mist	Daurko survives, finds spirit‑bound blade
+Day 1	Daurko wakes in ruined village	Begins search for clues
+Day 1 (current)	Daurko arrives at ruin; options presented	Scene ends with choice pending
+5. Where We Stopped
+Scene: Daurko is standing in the ruined village, fog swirling around him.
+Player Action: The player has not yet chosen an action; they are presented with six possible actions (investigate hall, examine well, speak to old woman, follow footprints, summon mist, rest).
+Next Step: Await player’s decision; upon choosing an action, roll the appropriate DC and resolve.
+6. How to Resume
+Load this file into your preferred DM tool or simply open it in a text editor.
+Read the “Where We Stopped” section to recall the current situation.
+Ask the player which action they want to take (or propose a new one).
+Roll the d20 (simulate or use a random number generator) and add the appropriate modifiers.
+Apply the result: If success, describe the outcome; if failure, describe consequences.
+Update the Save File: Adjust the character sheet, add new events, change reputations, etc.
+
+
+
+
+How to use:
+This is my saved story progress. Read it carefully and
+continue from exactly where the story stopped.
+Do not restart or contradict established events.
