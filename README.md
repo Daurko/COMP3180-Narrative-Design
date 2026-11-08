@@ -62,7 +62,7 @@ This downloads the model files required to run the AI locally. The download may 
 Clone this GitHub repository:
 
 ```powershell
-git clone [INSERT REPOSITORY URL]
+git clone https://github.com/Daurko/COMP3180-Narrative-Design.git
 ```
 
 Navigate into the downloaded project folder:
