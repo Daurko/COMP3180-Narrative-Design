@@ -36,10 +36,15 @@ Archivist Keldorn	Scholar, Mira’s mentor	Ally	Awaiting response to Mira’s re
 Jafar the Raider	Bandit leader	Rival (Azim)	Rumored to be searching for the Sun Disk.
 Merchant “Sable”	Street vendor	Neutral	Provides market intel on unusual artifacts.
 7️⃣ Key Events & Decisions
-Date	Event	Player Decision	Outcome
-Day 0	Party discovers sigil	Inspect sigil	Revealed solar resonance; sigil burned.
-Day 0	Mira drops sigil	–	Sigil damaged but enhanced.
-Day 0	Party debates next step	–	Awaiting player choice.
+Day 0	Party discovers sigil	Inspect sigil	Solar resonance revealed; sigil burns.
+Day 0	Mira drops sigil	—	Sigil cracks but glows brighter.
+Day 0	Party debates next step	Follow the light	Sigil points toward the eastern passage.
+Day 1	Party enters the passage	Explore the tunnel	They find a sealed door marked with the same sun symbol.
+Day 1	Door blocks the way	Hold the sigil to the door	The seal warms, but does not open.
+Day 2	Dawn reaches the shrine	Aim sunlight at the sigil	A beam strikes the door and reveals three missing symbols.
+Day 2	Party searches the ruins	Look for the symbols	They find two carved on broken pillars; the third is missing.
+Day 3	Tracks appear near the shrine	Follow the tracks	The party finds a campsite and evidence someone took the final symbol.
+Day 4	Party follows the trail	Search the nearby hills	They discover a watchtower with a faint golden light inside.
 8️⃣ Dice Pools & Modifiers
 Ability	Modifier	Proficiency Bonus
 Strength	+3	+2 (warrior)
