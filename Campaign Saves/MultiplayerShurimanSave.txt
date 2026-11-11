@@ -1,0 +1,57 @@
+1️⃣ Campaign Overview
+Item	Detail
+Title	Shurima: The Sun Disk’s Echo
+Current Date	Solstice of the Second Dawn (Year 7 of the Shurimian Calendar)
+Location	Sirocco, Shurima – The Courtyard of the Golden Serpent
+Narrative Hook	A silver sigil stamped on a weather‑worn scroll has revealed a faint solar resonance. The party suspects it is a key to the Sun Disk’s dormant power.
+2️⃣ Characters
+#	Name	Origin	Archetype	Key Stats (Mods)	Equipment & Notes
+1	Azim Kharis	Saharai nomad	Warrior / Protector	Str +3, Dex +2, Con +1	Sun‑Forged Scimitar (solar burst once/long rest), leather cuirass, dried dates pouch, 25 gp
+2	Mira Qel’ari	Shurimian Scholar	Investigator / Occultist	Int +4, Wis +2, Cha +1	Shard of the Dawnstone (Detect Magic / Read Thoughts once/day), ink pens, journal, 40 gp
+3	Jax “Whisper” Vell	Zaun smuggler	Rogue / Smuggler	Dex +3, Cha +2, Str +1	Stealth Module (partial invisibility 30 s once/long rest), lockpicks, dagger, 30 gp, map of Sirocco’s alleys
+Current Condition
+
+All characters are healthy (no injuries or status effects).
+Mira has sustained a minor burn (2 hp damage) from the sigil’s heat; fully recovered.
+3️⃣ The Sigil
+Feature	Details
+Name	Sun‑Forged Resonator
+Material	Silver parchment, silver ink
+Magic	Solar resonance; can channel Sun Disk energy.
+Condition	Cracked after heat; still legible. Enhanced pulse detectable at ~10 ft.
+Possible Actions	• Read Thoughts (Mira) – reveals hidden memories of a forgotten ascended. <br>• Channel Solar Energy (Azim) – risk of over‑exertion. <br>• Steal (Jax) – use Stealth Module.
+4️⃣ Current Quests & Open Threads
+#	Quest	Description	Current Status
+A	Uncover the Sigil’s Origin	Find out who forged the sigil and why it was left in Sirocco.	Investigating – party is exploring the Courtyard and asking locals.
+B	Protect the Sun Disk	Prevent the Sun Disk’s power from falling into the wrong hands.	Pending – not yet discovered the Sun Disk.
+C	Ascended Knowledge	Seek the hidden memories stored within the sigil’s resonance.	Pending – requires Mira to Read Thoughts.
+5️⃣ Faction Relationships
+Faction	Public Goal	Secret Objective	Current Opinion
+Saharai Tribes	Protect nomadic lands	Preserve Sun Disk relics	Neutral – Azim’s tribe seeks information.
+Shurimian Scholars	Preserve ancient knowledge	Control Sun Disk’s power	Positive – Mira’s guild supports research.
+Zaun Cartel	Profit from relics	Acquire Sun Disk for tech	Negative – Jax’s ties are strained after the sigil incident.
+6️⃣ Notable NPCs
+Name	Role	Relationship to Party	Current Status
+Archivist Keldorn	Scholar, Mira’s mentor	Ally	Awaiting response to Mira’s request for research access.
+Jafar the Raider	Bandit leader	Rival (Azim)	Rumored to be searching for the Sun Disk.
+Merchant “Sable”	Street vendor	Neutral	Provides market intel on unusual artifacts.
+7️⃣ Key Events & Decisions
+Date	Event	Player Decision	Outcome
+Day 0	Party discovers sigil	Inspect sigil	Revealed solar resonance; sigil burned.
+Day 0	Mira drops sigil	–	Sigil damaged but enhanced.
+Day 0	Party debates next step	–	Awaiting player choice.
+8️⃣ Dice Pools & Modifiers
+Ability	Modifier	Proficiency Bonus
+Strength	+3	+2 (warrior)
+Dexterity	+2	+2 (rogue)
+Constitution	+1	–
+Intelligence	+4	+2 (scholar)
+Wisdom	+2	+2
+Charisma	+1	+2
+Use these modifiers for future rolls. Roll a d20 and add the relevant modifier(s) plus proficiency when applicable.
+
+9️⃣ Notes for Next Session
+Mira should decide whether to use Read Thoughts on the sigil.
+Azim might attempt to channel solar energy, risking over‑exertion.
+Jax could try to acquire the sigil stealthily.
+The party may want to consult Archivist Keldorn for more context on the Sun Disk.
